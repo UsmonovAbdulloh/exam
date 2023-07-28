@@ -1,0 +1,6 @@
+SECRET_KEY='django-insecure-u8#naz=m&j*$bk^b=x_6t%%bzk*$btb!_2zt54n7ht$l%tpoj@'
+DB_NAME='exam_db'
+DB_USER='exam_user'
+DB_PASSWORD='123456'
+DB_HOST='localhost'
+DB_PORT='5432'
